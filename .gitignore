@@ -1,0 +1,5 @@
+# npm 包
+node_modules
+
+# 已生成的二维码
+wx_qrcode_*.png
