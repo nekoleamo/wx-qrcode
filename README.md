@@ -9,3 +9,7 @@
 2. node getQrcode.js 运行
 
 3. 根据选项输入即可获取小程序码或普通二维码
+
+## access_token获取（有效时间为2小时，需要 appid 及 app_secret，可以再小程序管理后台查看）
+
+[官方获取access_token](https://mp.weixin.qq.com/debug)
